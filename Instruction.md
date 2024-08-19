@@ -26,8 +26,8 @@ Follow these steps to set up the project locally:
 Clone the repository from GitHub:
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/AnishGarg1/fullstack-assignment.git
+cd fullstack-assignment
 ```
 
 ### 2. Backend Setup
